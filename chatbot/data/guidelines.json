@@ -1,0 +1,39 @@
+{
+  "fever": {
+    "advice": [
+      "Drink plenty of clean water or ORS to prevent dehydration.",
+      "Remove extra clothing and keep the body cool.",
+      "Give a sponge bath with lukewarm water if very hot.",
+      "Check temperature every 4 hours.",
+      "Seek medical help if fever > 102°F or child is lethargic, or fever persists."
+    ]
+  },
+  "cold": {
+    "advice": [
+      "Drink warm fluids and rest.",
+      "Use saline nasal drops for clearing the nose.",
+      "Inhale steam for temporary relief.",
+      "Seek help if breathing difficulty or persistent high fever."
+    ]
+  },
+  "vomiting": {
+    "advice": [
+      "Sip small amounts of ORS or clear fluids frequently to avoid dehydration.",
+      "Avoid solid food for a few hours; start with bland foods when vomiting stops.",
+      "Seek medical help if vomiting persists, has blood, or signs of dehydration."
+    ]
+  },
+  "pain": {
+    "advice": [
+      "Rest the painful area and avoid strenuous activity.",
+      "Apply warm compress for muscle pain; cold compress for swelling.",
+      "Seek medical help for severe or persistent pain."
+    ]
+  },
+  "default": {
+    "advice": [
+      "I can provide home-care advice for: fever, cold, vomiting, pain.",
+      "Please describe your symptoms briefly, e.g., 'fever and headache'."
+    ]
+  }
+}
